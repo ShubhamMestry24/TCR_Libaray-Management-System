@@ -1,5 +1,5 @@
 # Library-Management-TCR-INNOVATION
-The Library Management System Java Project is developed using JAVA, MySQL Connector and Wamp MySQL Database, This Library Management System in java is executed in the NETBEANS IDE.
+The Library Management System Java Project is developed using JAVA, MySQL Connector and Xampp MySQL Database, This Library Management System in java is executed in the NETBEANS IDE.
 
 # Features
 * Login
